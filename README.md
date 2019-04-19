@@ -24,7 +24,8 @@ Train different machine learning models on data
 4) Decision Trees
 5) Random Forest Classifier
 6) GBDT
-Get more accuracy with Linear SVC i.e 96.61%
+
+Get more accuracy with Linear SVC i.e 96.61%.
 
 ## LSTM model:
 -Defined 1 layer and 2 layer LSTM architecture and got 93.25% accuracy with 2 layer architecure.
